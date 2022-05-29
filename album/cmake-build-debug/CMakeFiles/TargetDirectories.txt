@@ -1,0 +1,5 @@
+C:/Users/Kot/CLionProjects/hw32/album/cmake-build-debug/CMakeFiles/album.dir
+C:/Users/Kot/CLionProjects/hw32/album/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw32/album/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/hw32/album/cmake-build-debug/nlohmann_json/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw32/album/cmake-build-debug/nlohmann_json/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+{
+  "band":"Led Zeppelin",
+  "musicians":
+  {
+    "bass guitar":"John Poul Jones",
+    "drums":"John Bonham",
+    "guitar":"Jimmy Page",
+    "vocal":"Robert Plant"
+  },
+  "producer":"Jimmy Page",
+  "released year":1976,
+  "songs":
+  {
+    "1.Achilles Last Stand":"10:26",
+    "2.For Your Life":"6:21",
+    "3.Royal Orleans":"2:58",
+    "4.Nobody's Fault but Mine":"6:27",
+    "5.Candy Store Rock":"4:10",
+    "6.Hots On for Nowhere":"4:42",
+    "7.Tea for One":"9:27"
+  },
+  "studio":"Swan Song Records"
+}

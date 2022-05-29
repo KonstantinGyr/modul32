@@ -1,0 +1,72 @@
+{
+  "461 Ocean Boulevard":{
+    "band":"Eric Clapton",
+    "studios":"RSO Records",
+    "released years":1974,
+    "producer":"Tom Dowd",
+    "musicians":
+    {
+      "vocals":"Eric Clapton",
+      "guitars":"Eric Clapton",
+      "bass":"Carl Radle",
+      "drums":"Jamie Oldaker",
+      "piano":"Albhy Galuten"
+    }
+  },
+  "Presence":{
+    "band":"Led Zeppelin",
+    "studios":"Swan Song",
+    "released years":1976,
+    "producer":"Jimmy Page",
+    "musicians" :
+    {
+      "vocals":"Robert Plant",
+      "guitars":"Jimmy Page",
+      "bass":"John Paul Jones",
+      "drums":"John Bonhem",
+      "piano": "John Paul Jones"
+    }
+  },
+  "The Firm":{
+    "band":"The Firm",
+    "studios":"Atlantic",
+    "released years":1984,
+    "producer":"Jimmy Page, Paul Rodgers",
+    "musicians":
+    {
+      "vocals":"Paul Rodgers",
+      "guitars":"Jimmy Page",
+      "bass":"Tony Franklin",
+      "drums":"Chris Slade",
+      "piano":"nobody"
+    }
+  },
+  "For Your Love":{
+    "band":"Yardbirds",
+    "studios":"Epic",
+    "released years":1965,
+    "producer":"Giorgio Gomelsky",
+    "musicians":
+    {
+      "vocals":"Keith Relf",
+      "guitars":"Eric Clapton",
+      "bass":"Paul Samwell-Smith",
+      "drums":"Jim McCarty",
+      "piano":"Manfred Mann"
+    }
+  },
+  "Blow by Blow":{
+    "band":"Jeff Beck",
+    "studios":"Epic",
+    "released years":1975,
+    "producer":"George Martin",
+    "musicians":
+    {
+      "vocals": "nobody",
+      "guitars":"Jeff Beck",
+      "bass":"Phil Chenn",
+      "drums":"Richard Bailey",
+      "piano":"Max Middleton"
+    }
+  }
+}
